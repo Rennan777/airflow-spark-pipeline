@@ -1,6 +1,6 @@
-# workshop_airflow
+# airflow-spark-pipeline
 
-Ambiente de estudo do Apache Airflow (via Astro CLI) com pipelines de ingestão e processamento de dados de preço do Bitcoin, cobrindo extração de API, carga em Postgres e submissão de jobs Spark.
+Projeto de aprofundamento em Apache Airflow e Apache Spark (via Astro CLI), com pipelines de ingestão e processamento de dados de preço do Bitcoin, cobrindo extração de API, carga em Postgres e submissão de jobs Spark.
 
 ## O que o projeto faz
 
